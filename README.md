@@ -24,7 +24,7 @@ apt-get update
 
 git clone https://github.com/TechBite-BD/Embedded-Apk.git
 
-cd embedded-apk.sh
+cd Embedded-Apk
 
 chmod +x embedded-apk.sh
 
@@ -41,7 +41,7 @@ pkg install git
 
 git clone https://github.com/TechBite-BD/Embedded-Apk.git
 
-cd embedded-apk.sh
+cd Embedded-Apk
 
 chmod +x embedded-apk.sh
 
