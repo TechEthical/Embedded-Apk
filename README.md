@@ -49,4 +49,6 @@ bash embedded-apk.sh
 ```
 Note: Use Mobile Data For Ngrok Link
 
+Video Tutorial: https://www.youtube.com/watch?v=R7R84KpzLk8
+
 ## Changing this banner doesn't make you programmer..!
