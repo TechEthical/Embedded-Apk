@@ -22,7 +22,7 @@ Using this Embedded-Apk script you can Bind or Inject the "metasploit" payload w
 ```
 apt-get update
 
-git clone https://github.com/TechBite-BD/Embedded-Apk.git
+git clone https://github.com/TechEthical/Embedded-Apk.git
 
 cd Embedded-Apk
 
@@ -39,7 +39,7 @@ pkg update
 
 pkg install git
 
-git clone https://github.com/TechBite-BD/Embedded-Apk.git
+git clone https://github.com/TechEthical/Embedded-Apk.git
 
 cd Embedded-Apk
 
